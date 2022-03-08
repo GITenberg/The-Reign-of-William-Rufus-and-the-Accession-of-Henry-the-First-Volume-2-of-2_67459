@@ -1,0 +1,43 @@
+_repo: The-Reign-of-William-Rufus-and-the-Accession-of-Henry-the-First-Volume-2-of-2_67459
+_version: 0.0.1
+alternative_title: The Reign of William Rufus and the Accession of Henry I, Volume
+  2 (of 2)
+creator:
+  author:
+    agent_name: Freeman, Edward A. (Edward Augustus)
+    aliases:
+    - Freeman, Edward Augustus
+    - Freeman, E. A. (Edward Augustus)
+    birthdate: 1823
+    deathdate: 1892
+    gutenberg_agent_id: '526'
+    url: http://www.gutenberg.org/2009/agents/526
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Augustus_Freeman
+description: ''
+gutenberg_issued: '2022-02-21'
+identifiers:
+  gutenberg: '67459'
+language: en
+pgterms:marc904: https://archive.org/details/reignofwilliamr01free https://archive.org/details/reignofwilliamr02free
+pgterms:marc905: 20181121163014freeman
+pgterms:marc906: '1882'
+pgterms:marc907: GB
+production_note: Carol Brown, MWS and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: United Kingdom :Clarendon Press,1882.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Norman period, 1066-1154'
+- !lcsh 'Henry I, King of England, 1068-1135'
+- !lcsh 'Great Britain -- History -- Henry I, 1100-1135'
+- !lcsh 'Normans -- Great Britain'
+- !lcsh 'William II, King of England, 1056?-1100'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- William II, Rufus, 1087-1100'
+- GITenberg
+title: The Reign of William Rufus and the Accession of Henry the First, Volume 2 (of
+  2)
+url: http://www.gutenberg.org/ebooks/67459
