@@ -2,6 +2,9 @@ _repo: The-Reign-of-William-Rufus-and-the-Accession-of-Henry-the-First-Volume-2-
 _version: 0.1.0
 alternative_title: The Reign of William Rufus and the Accession of Henry I, Volume
   2 (of 2)
+covers:
+- cover_type: archival
+  image_path: 67459-h/images/cover.jpg
 creator:
   author:
     agent_name: Freeman, Edward A. (Edward Augustus)
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/526
     wikipedia: https://en.wikipedia.org/wiki/Edward_Augustus_Freeman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67459#The-Reign-of-William-Rufus-and-the-Accession-of-Henry-the-First-Volume-2-of-2
 gutenberg_issued: '2022-02-21'
 identifiers:
   gutenberg: '67459'
